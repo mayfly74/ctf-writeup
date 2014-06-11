@@ -1,5 +1,8 @@
 #!/usr/bin/python 
 # -*- coding:utf-8 -*-
+# exploit code for defcon 2014 ctf turdedo 
+# by mayfly74 
+
 import socket, struct, sys, ctypes
 import hashlib, time, thread
 
