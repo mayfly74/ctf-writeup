@@ -149,5 +149,5 @@ root@ubuntuvm:/home/user/main/ctf/secuinside2014/findkey#
 
 source code : [https://github.com/mayfly74/ctf-writeup/blob/master/secuinside_2014_quals/findkey_reversing100/findkey.py]
 
-** Sorry for my poor English. ** 
+*Sorry for my poor English.* 
 
