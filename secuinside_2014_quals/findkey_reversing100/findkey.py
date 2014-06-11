@@ -1,6 +1,9 @@
 #-*- coding:utf-8 -*-
 import numpy, sys, os, struct   
 
+# code for secuinside2014 findkey 
+# by mayfly74
+
 # 0x804F180
 result = [0x00029344, 0x00029b98, 0x00020630, 0x0003a1f8,
 0x0001db6e, 0x00028a16, 0x00008e42, 0x000503c3,
