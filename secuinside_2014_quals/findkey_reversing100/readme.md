@@ -147,7 +147,7 @@ The flag is : 'w0w! 1nv3r51on arr4y i5 4we50m3 f0r th3 k3y, lol!'
 root@ubuntuvm:/home/user/main/ctf/secuinside2014/findkey# 
 ```
 
-source code : []
+source code : [https://github.com/mayfly74/ctf-writeup/blob/master/secuinside_2014_quals/findkey_reversing100/findkey.py]
 
 ** Sorry for my poor English. ** 
 
